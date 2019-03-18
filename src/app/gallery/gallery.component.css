@@ -1,0 +1,24 @@
+.container1{
+	background-color: #FFC04C; 
+}
+.container2{
+	background-color: #404040; 
+	margin-left: 55px;
+}
+img{
+	height: 300px;
+	width: 400px;
+}
+h1{
+	font-family: times;
+	background-color: #000033;
+	color: white;
+	border-radius: 15px;
+	border:1px solid white;
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 100%;
+}
+.images{
+	margin-top: 20px;
+}

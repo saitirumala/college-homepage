@@ -1,0 +1,51 @@
+.container1{
+	background-color:#FFC04C;
+	margin-top: 0px;
+}
+.container2{
+	background-color:white;
+	border-radius: 10px;
+	margin-left: 120px;
+	margin-top: 0px;
+	border-left: 10px solid #339966;
+	border-right: 10px solid #339966;
+}
+.container2>h1{
+color: white;
+background-color: brown;
+border-radius: 10px;
+font-family: times;
+padding-left: 30px;
+margin-top: 1px;
+}
+a{
+color:blue;
+font-size: 31px;
+background-color:blue;
+font-family: times;
+}
+.logo>img{
+	height: 100px;
+	width: 100px;
+	margin-left: 100px;
+	border-radius: 10px;
+}
+.steps>h2{
+	font-family: times;
+	background-color: #000033;
+	border-radius: 10px;
+	color: white;
+	height: 45px;
+	padding-left: 20px;
+}
+.steps>p{
+	font-size: 20px;
+	font-weight: bold;
+}
+.steps>a{
+color:blue;
+font-size: 30px;
+font-family: times;
+text-align: center;
+}
+
